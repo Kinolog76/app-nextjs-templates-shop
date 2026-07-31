@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Segoe UI, sans-serif">
+  <rect width="640" height="400" fill="#f6f8f7"/>
+  <rect x="0" y="0" width="640" height="26" fill="#e9efec"/>
+  <text x="24" y="54" fill="#1d2b24" font-size="16" font-weight="700">CRM клиентов</text>
+  <rect x="24" y="68" width="592" height="30" rx="6" fill="#e6f4ea"/>
+  <g fill="#3f5548" font-size="11" font-weight="600">
+    <text x="36" y="87">Клиент</text><text x="190" y="87">Этап сделки</text><text x="340" y="87">Сумма</text>
+    <text x="430" y="87">Вероятность</text><text x="524" y="87">Действие</text>
+  </g>
+  <g font-size="11">
+    <g fill="#33443b">
+      <text x="36" y="120">ООО «Альфа»</text><text x="190" y="120">Переговоры</text><text x="340" y="120">250 000 ₴</text><text x="446" y="120">75%</text><text x="524" y="120">Позвонить</text>
+      <text x="36" y="150">ИП Иванов</text><text x="190" y="150">Ком. предложение</text><text x="340" y="150">150 000 ₴</text><text x="446" y="150">50%</text><text x="524" y="150">Отправить КП</text>
+      <text x="36" y="180">ООО «Бета»</text><text x="190" y="180">Выставлен счет</text><text x="340" y="180">300 000 ₴</text><text x="446" y="180">80%</text><text x="524" y="180">Ждать оплаты</text>
+      <text x="36" y="210">ООО «Гамма»</text><text x="190" y="210">Новый лид</text><text x="340" y="210">120 000 ₴</text><text x="446" y="210">20%</text><text x="524" y="210">Первый звонок</text>
+    </g>
+    <g stroke="#e3ece7"><line x1="24" y1="128" x2="616" y2="128"/><line x1="24" y1="158" x2="616" y2="158"/><line x1="24" y1="188" x2="616" y2="188"/><line x1="24" y1="218" x2="616" y2="218"/></g>
+  </g>
+  <rect x="24" y="240" width="130" height="64" rx="8" fill="#fff" stroke="#dfe8e3"/>
+  <text x="38" y="262" fill="#7d8f86" font-size="11">Всего сделок</text>
+  <text x="38" y="288" fill="#1d2b24" font-size="17" font-weight="700">1 000 000 ₴</text>
+  <rect x="166" y="240" width="90" height="64" rx="8" fill="#fff" stroke="#dfe8e3"/>
+  <text x="180" y="262" fill="#7d8f86" font-size="11">В работе</text>
+  <text x="180" y="288" fill="#1d2b24" font-size="17" font-weight="700">5</text>
+  <rect x="268" y="240" width="220" height="140" rx="10" fill="#fff" stroke="#dfe8e3"/>
+  <text x="284" y="266" fill="#4b5d54" font-size="12" font-weight="600">Воронка продаж</text>
+  <g>
+    <rect x="284" y="280" width="180" height="14" rx="4" fill="#bbf7d0"/><text x="470" y="291" font-size="10" fill="#4b5d54">10</text>
+    <rect x="284" y="300" width="140" height="14" rx="4" fill="#86efac"/><text x="430" y="311" font-size="10" fill="#4b5d54">5</text>
+    <rect x="284" y="320" width="100" height="14" rx="4" fill="#4ade80"/><text x="390" y="331" font-size="10" fill="#4b5d54">3</text>
+    <rect x="284" y="340" width="70" height="14" rx="4" fill="#22c55e"/><text x="360" y="351" font-size="10" fill="#4b5d54">2</text>
+    <rect x="284" y="360" width="40" height="14" rx="4" fill="#16a34a"/><text x="330" y="371" font-size="10" fill="#4b5d54">1</text>
+  </g>
+  <rect x="500" y="240" width="116" height="140" rx="10" fill="#fff" stroke="#dfe8e3"/>
+  <text x="516" y="266" fill="#4b5d54" font-size="12" font-weight="600">Конверсия</text>
+  <g transform="translate(558,325)">
+    <circle r="34" fill="none" stroke="#e6f4ea" stroke-width="12"/>
+    <circle r="34" fill="none" stroke="#16a34a" stroke-width="12" stroke-dasharray="43 171" transform="rotate(-90)" stroke-linecap="round"/>
+    <text y="6" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b24">20%</text>
+  </g>
+</svg>

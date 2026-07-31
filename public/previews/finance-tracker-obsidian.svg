@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Segoe UI, sans-serif">
+  <rect width="640" height="400" fill="#16162a"/>
+  <rect x="0" y="0" width="130" height="400" fill="#1c1c34"/>
+  <text x="16" y="34" fill="#8b8ba7" font-size="13" font-weight="600">Финансы</text>
+  <rect x="8" y="50" width="114" height="24" rx="6" fill="#3d2f7a"/>
+  <g font-size="12">
+    <text x="16" y="66" fill="#cfc6ff">Обзор</text>
+    <text x="16" y="100" fill="#6f6f8f">Доходы</text><text x="16" y="126" fill="#6f6f8f">Расходы</text>
+    <text x="16" y="152" fill="#6f6f8f">Категории</text><text x="16" y="178" fill="#6f6f8f">Счета</text>
+    <text x="16" y="204" fill="#6f6f8f">Цели</text><text x="16" y="230" fill="#6f6f8f">Отчеты</text>
+  </g>
+  <g>
+    <rect x="150" y="30" width="150" height="70" rx="10" fill="#20203a"/>
+    <text x="164" y="54" fill="#8b8ba7" font-size="11">Доходы</text>
+    <text x="164" y="80" fill="#e8e6f5" font-size="17" font-weight="700">120 000</text>
+    <rect x="315" y="30" width="150" height="70" rx="10" fill="#20203a"/>
+    <text x="329" y="54" fill="#8b8ba7" font-size="11">Расходы</text>
+    <text x="329" y="80" fill="#e8e6f5" font-size="17" font-weight="700">78 450</text>
+    <rect x="480" y="30" width="145" height="70" rx="10" fill="#20203a"/>
+    <text x="494" y="54" fill="#8b8ba7" font-size="11">Сбережения</text>
+    <text x="494" y="80" fill="#e8e6f5" font-size="17" font-weight="700">41 550</text>
+  </g>
+  <rect x="150" y="120" width="220" height="250" rx="10" fill="#20203a"/>
+  <text x="166" y="148" fill="#8b8ba7" font-size="12">Расходы по категориям</text>
+  <g transform="translate(230,250)">
+    <circle r="60" fill="none" stroke="#7c5cff" stroke-width="26" stroke-dasharray="132 245"/>
+    <circle r="60" fill="none" stroke="#5b8def" stroke-width="26" stroke-dasharray="75 302" stroke-dashoffset="-132"/>
+    <circle r="60" fill="none" stroke="#2fbf71" stroke-width="26" stroke-dasharray="57 320" stroke-dashoffset="-207"/>
+    <circle r="60" fill="none" stroke="#e0b45c" stroke-width="26" stroke-dasharray="45 332" stroke-dashoffset="-264"/>
+    <circle r="60" fill="none" stroke="#a78bfa" stroke-width="26" stroke-dasharray="68 309" stroke-dashoffset="-309"/>
+  </g>
+  <rect x="390" y="120" width="235" height="250" rx="10" fill="#20203a"/>
+  <text x="406" y="148" fill="#8b8ba7" font-size="12">Динамика расходов</text>
+  <polyline points="410,330 445,300 480,310 515,270 550,280 585,230 610,240"
+    fill="none" stroke="#7c5cff" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#7c5cff">
+    <circle cx="410" cy="330" r="4"/><circle cx="445" cy="300" r="4"/><circle cx="480" cy="310" r="4"/>
+    <circle cx="515" cy="270" r="4"/><circle cx="550" cy="280" r="4"/><circle cx="585" cy="230" r="4"/><circle cx="610" cy="240" r="4"/>
+  </g>
+</svg>

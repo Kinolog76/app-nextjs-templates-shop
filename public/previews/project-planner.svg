@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Segoe UI, sans-serif">
+  <rect width="640" height="400" fill="#16162a"/>
+  <rect x="0" y="0" width="140" height="400" fill="#1c1c34"/>
+  <text x="18" y="34" fill="#8b8ba7" font-size="13" font-weight="600">Проекты</text>
+  <rect x="10" y="52" width="120" height="26" rx="6" fill="#3d2f7a"/>
+  <g font-size="12">
+    <text x="18" y="70" fill="#cfc6ff">Все проекты</text>
+    <text x="18" y="104" fill="#6f6f8f">Активные</text><text x="18" y="130" fill="#6f6f8f">Планирование</text>
+    <text x="18" y="156" fill="#6f6f8f">В ожидании</text><text x="18" y="182" fill="#6f6f8f">Завершенные</text>
+    <text x="18" y="208" fill="#6f6f8f">Архив</text>
+  </g>
+  <text x="170" y="40" fill="#e8e6f5" font-size="15" font-weight="700">Все проекты</text>
+  <g fill="#6f6f8f" font-size="11">
+    <text x="170" y="78">Проект</text><text x="360" y="78">Статус</text><text x="460" y="78">Прогресс</text><text x="575" y="78">Срок</text>
+  </g>
+  <line x1="165" y1="88" x2="625" y2="88" stroke="#2c2c4a"/>
+  <g font-size="12" fill="#c9c6dd">
+    <text x="170" y="116">Запуск сайта</text><text x="170" y="156">Исследование рынка</text>
+    <text x="170" y="196">Контент-план</text><text x="170" y="236">Приложение</text><text x="170" y="276">Маркетинговая кампания</text>
+  </g>
+  <g font-size="10" font-weight="600">
+    <rect x="358" y="102" width="58" height="18" rx="9" fill="#3d2f7a"/><text x="368" y="115" fill="#cfc6ff">В работе</text>
+    <rect x="358" y="142" width="58" height="18" rx="9" fill="#3d2f7a"/><text x="368" y="155" fill="#cfc6ff">В работе</text>
+    <rect x="358" y="182" width="80" height="18" rx="9" fill="#2c3e6e"/><text x="368" y="195" fill="#a8c2f5">План</text>
+    <rect x="358" y="222" width="80" height="18" rx="9" fill="#4a3b1f"/><text x="368" y="235" fill="#f5d9a8">Ожидание</text>
+    <rect x="358" y="262" width="72" height="18" rx="9" fill="#1f4a33"/><text x="368" y="275" fill="#a8f5c9">Завершен</text>
+  </g>
+  <g>
+    <rect x="460" y="108" width="100" height="6" rx="3" fill="#2c2c4a"/><rect x="460" y="108" width="70" height="6" rx="3" fill="#7c5cff"/>
+    <rect x="460" y="148" width="100" height="6" rx="3" fill="#2c2c4a"/><rect x="460" y="148" width="45" height="6" rx="3" fill="#7c5cff"/>
+    <rect x="460" y="188" width="100" height="6" rx="3" fill="#2c2c4a"/><rect x="460" y="188" width="20" height="6" rx="3" fill="#5b8def"/>
+    <rect x="460" y="228" width="100" height="6" rx="3" fill="#2c2c4a"/><rect x="460" y="228" width="10" height="6" rx="3" fill="#e0b45c"/>
+    <rect x="460" y="268" width="100" height="6" rx="3" fill="#2c2c4a"/><rect x="460" y="268" width="100" height="6" rx="3" fill="#2fbf71"/>
+  </g>
+  <g fill="#8b8ba7" font-size="11">
+    <text x="573" y="116">25 мая</text><text x="573" y="156">12 мая</text><text x="573" y="196">30 мая</text>
+    <text x="573" y="236">15 июн</text><text x="577" y="276">1 мая</text>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Segoe UI, sans-serif">
+  <rect width="640" height="400" fill="#16162a"/>
+  <rect x="0" y="0" width="150" height="400" fill="#1c1c34"/>
+  <text x="20" y="36" fill="#8b8ba7" font-size="13" font-weight="600">Второй мозг</text>
+  <g fill="#6f6f8f" font-size="12">
+    <text x="20" y="70">Входящие</text><text x="20" y="96">Проекты</text><text x="20" y="122">Области</text>
+    <text x="20" y="148">Ресурсы</text><text x="20" y="174">Архив</text><text x="20" y="212">Цели на год</text>
+    <text x="20" y="238">Книги</text><text x="20" y="264">Идеи</text>
+  </g>
+  <g stroke="#4c3e8f" stroke-width="1.2">
+    <line x1="380" y1="120" x2="290" y2="180"/><line x1="380" y1="120" x2="470" y2="170"/>
+    <line x1="290" y1="180" x2="250" y2="260"/><line x1="470" y1="170" x2="520" y2="250"/>
+    <line x1="380" y1="120" x2="380" y2="220"/><line x1="380" y1="220" x2="290" y2="180"/>
+    <line x1="380" y1="220" x2="470" y2="170"/><line x1="380" y1="220" x2="330" y2="300"/>
+    <line x1="380" y1="220" x2="450" y2="310"/><line x1="250" y1="260" x2="330" y2="300"/>
+    <line x1="520" y1="250" x2="450" y2="310"/><line x1="380" y1="120" x2="300" y2="70"/>
+    <line x1="380" y1="120" x2="480" y2="70"/>
+  </g>
+  <g>
+    <path d="M380 95l17 15-17 30-17-30 17-15z" fill="#7c5cff"/>
+    <circle cx="290" cy="180" r="10" fill="#8b7cf6"/><circle cx="470" cy="170" r="11" fill="#8b7cf6"/>
+    <circle cx="250" cy="260" r="8" fill="#5b3fff"/><circle cx="520" cy="250" r="9" fill="#5b3fff"/>
+    <circle cx="380" cy="220" r="12" fill="#a78bfa"/><circle cx="330" cy="300" r="8" fill="#8b7cf6"/>
+    <circle cx="450" cy="310" r="9" fill="#7c5cff"/><circle cx="300" cy="70" r="7" fill="#5b3fff"/>
+    <circle cx="480" cy="70" r="8" fill="#8b7cf6"/>
+  </g>
+  <g fill="#b3a8e8" font-size="11">
+    <text x="270" y="155">Здоровье</text><text x="445" y="147">Проект B</text>
+    <text x="352" y="250">Обучение</text><text x="430" y="337">Путешествие</text><text x="228" y="288">Книги</text>
+  </g>
+</svg>
